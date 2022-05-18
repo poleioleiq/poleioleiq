@@ -1,5 +1,5 @@
 ### Hi there 👋
- [leetcode](leetcode-cn.com/u/atom-ze/)
+ [leetcode](www.leetcode-cn.com/u/atom-ze/)
 <!--
 **poleioleiq/poleioleiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
