@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=atom-ze)](https://github.com/KnlnKS/leetcode-stats)
-leetcode ： leetcode-cn.com/u/atom-ze/
+ [leetcode](leetcode-cn.com/u/atom-ze/)
 <!--
 **poleioleiq/poleioleiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
