@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[leetcode stats](https://leetcode.cn/u/atom-ze/)
+
 
 
 <!--
